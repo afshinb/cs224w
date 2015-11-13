@@ -1,0 +1,6 @@
+Python script to read through bitcoin_uic file and extract the following for each user (not publick key- 
+public keys are already clustered)
+
+1- Total money user has spent/received
+2- Date of the first/last spending/receiving transaction
+3- Total number of spending/receiving transactions.
